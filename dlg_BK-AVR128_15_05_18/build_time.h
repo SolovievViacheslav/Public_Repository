@@ -1,0 +1,8 @@
+#ifndef BUILD_TIME_H
+#define BUILD_TIME_H
+#include <QString>
+
+QString get_build_dt();
+
+#endif // BUILD_TIME_H
+// 
